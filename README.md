@@ -21,3 +21,34 @@
 ## Description
 
 🔍 A Mobile-First, Progressive Web Application (PWA) Budget Tracker that allows a user to track income and expenses online and offline.
+
+**[Deployed Application](https://enigmatic-gorge-65601.herokuapp.com/)**
+
+## Table of Contents
+- [Description](#description)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Questions](#questions)
+
+## Installation
+💾   
+
+`npm install`
+  
+## Usage
+💻   
+  
+`npm start`
+
+With Nodemon:
+
+`npm run watch`
+
+## Contributing
+:octocat: [Zi Wang](https://github.com/ZiWang55)
+
+## Questions
+✉️ Contact me with any questions: [email](mailto:ziwang55@gmail.com) , [GitHub](https://github.com/ZiWang55)<br />
