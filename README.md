@@ -24,6 +24,10 @@
 
 **[Deployed Application](https://enigmatic-gorge-65601.herokuapp.com/)**
 
+💻 Below is a screenshot of the application:
+  
+![pwa-budget-tracker](screenshot.PNG)
+
 ## Table of Contents
 - [Description](#description)
 - [Acceptance Criteria](#acceptance-criteria)
