@@ -46,6 +46,7 @@ self.addEventListener("activate", function(evt) {
 self.addEventListener("fetch", function(evt) {
   // cache successful requests to the API
   if (evt.request.url.includes("/api/transaction")) {
+    console.log(evt, "test")
     evt.respondWith(
       caches.open(DATA_CACHE_NAME).then(cache => {
         return fetch(evt.request)
